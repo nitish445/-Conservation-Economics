@@ -1,0 +1,1432 @@
+[
+    {
+        "id": "1",
+        "question": "In the word root for conservation, con stands for",
+        "options": [
+            "Together",
+            "Action",
+            "Part",
+            "Opposed"
+        ],
+        "answer": "Together"
+    },
+    {
+        "id": "2",
+        "question": "A government’s long-term policy towards conservation of natural resources is",
+        "options": [
+            "Sustainable development",
+            "Social development",
+            "Resource management",
+            "Development strategy"
+        ],
+        "answer": "Sustainable development"
+    },
+    {
+        "id": "3",
+        "question": "The living organisms found in a forest are collectively referred to as",
+        "options": [
+            "Biotic components",
+            "Abiotic components",
+            "Natural resources",
+            "Energy sources"
+        ],
+        "answer": "Biotic components"
+    },
+    {
+        "id": "4",
+        "question": "Tropical moist forests do not include which of the following?",
+        "options": [
+            "Broadleaved forests",
+            "Wet evergreen forests",
+            "Semi-evergreen forests",
+            "Moist deciduous forests"
+        ],
+        "answer": "Broadleaved forests"
+    },
+    {
+        "id": "5",
+        "question": "Which of these is not a use value?",
+        "options": [
+            "Direct value",
+            "Indirect value",
+            "Option value",
+            "Existence value"
+        ],
+        "answer": "Existence value"
+    },
+
+    {
+        "id": "6",
+        "question": "Absolute poverty depends",
+        "options": [
+            "on income but not on access to social services",
+            "not on income but on access to social services",
+            "on income and on access to social services",
+            "neither on income nor on access to social services"
+        ],
+        "answer": "on income and on access to social services"
+    },
+    {
+        "id": "7",
+        "question": "“the equipment and structures used to produce goods and services” is the definition of",
+        "options": [
+            "tools",
+            "machinery",
+            "capital",
+            "factors of production"
+        ],
+        "answer": "capital"
+    },
+    {
+        "id": "8",
+        "question": "“above-equilibrium wages paid by firms to increase worker productivity” are known as",
+        "options": [
+            "compensating wage",
+            "efficiency wage",
+            "productivity wage",
+            "retention wage"
+        ],
+        "answer": "efficiency wage"
+    },
+    {
+        "id": "9",
+        "question": "“government policy aimed at protecting people against the risk of adverse events” is",
+        "options": [
+            "Social protection",
+            "Social insurance",
+            "Social security",
+            "Socialism"
+        ],
+        "answer": "Social insurance"
+    },
+    {
+        "id": "10",
+        "question": "“a difference in wages that arises to offset the non-monetary characteristics of different jobs” is known as",
+        "options": [
+            "differentiating differential",
+            "compensating differential",
+            "differentiating integral",
+            "compensating integral"
+        ],
+        "answer": "compensating differential"
+    },
+    {
+        "id": "11",
+        "question": "For a competitive and profit-maximising firm,",
+        "options": [
+            "each factor’s rental price < the value of the marginal product for that factor",
+            "each factor’s rental price = the value of the marginal product for that factor",
+            "each factor’s rental price > the value of the marginal product for that factor",
+            "each factor’s rental price = the value of the average product for that factor"
+        ],
+        "answer": "each factor’s rental price = the value of the marginal product for that factor"
+    },
+    {
+        "id": "12",
+        "question": "“a condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information” is known as",
+        "options": [
+            "absolute poverty",
+            "relative poverty",
+            "median poverty",
+            "poverty line"
+        ],
+        "answer": "absolute poverty"
+    },
+    {
+        "id": "13",
+        "question": "“a condition where a household’s income is lower than the median income in the particular country” is known as",
+        "options": [
+            "absolute poverty",
+            "relative poverty",
+            "median poverty",
+            "poverty line"
+        ],
+        "answer": "relative poverty"
+    },
+    {
+        "id": "14",
+        "question": "“the increase in the amount of output from an additional unit of labor” is",
+        "options": [
+            "marginal product of labour",
+            "marginal product of input",
+            "average product of labour",
+            "average product of input"
+        ],
+        "answer": "marginal product of labour"
+    },
+    {
+        "id": "15",
+        "question": "“an action taken by an uninformed party to induce an informed party to reveal information” is known as",
+        "options": [
+            "signalling",
+            "screening",
+            "informing",
+            "heuristics"
+        ],
+        "answer": "screening"
+    },
+    {
+        "id": "16",
+        "question": "“the part of actual resources that can be developed profitably in the future” are",
+        "options": [
+            "potential resources",
+            "actual resources",
+            "reserve resources",
+            "stock resources"
+        ],
+        "answer": "reserve resources"
+    },
+    {
+        "id": "17",
+        "question": "“the limit on the consumption bundles that a consumer can afford” is known as",
+        "options": [
+            "consumption constraint",
+            "budget constraint",
+            "bundle constraint",
+            "affordability constraint"
+        ],
+        "answer": "budget constraint"
+    },
+    {
+        "id": "18",
+        "question": "“mental short cut using emotion (gut feeling) to influences the decision” is",
+        "options": [
+            "affect heuristic",
+            "availability heuristic",
+            "effort heuristic",
+            "familiarity heuristic"
+        ],
+        "answer": "affect heuristic"
+    },
+    {
+        "id": "19",
+        "question": "“those resources that are currently being used after surveying, quantification and qualification” are",
+        "options": [
+            "potential resources",
+            "actual resources",
+            "reserve resources",
+            "stock resources"
+        ],
+        "answer": "actual resources"
+    },
+    {
+        "id": "20",
+        "question": "“the change in consumption that results when a price change moves the consumer along a given indifference curve to a point with a new marginal rate of substitution” is known as",
+        "options": [
+            "income effect",
+            "substitution effect",
+            "indifference effect",
+            "budget effect"
+        ],
+        "answer": "substitution effect"
+    },
+
+        {
+            "id": "21",
+            "question": "An inferior good whose demand increases with price is called as",
+            "options": [
+                "Normal good",
+                "Veblen good",
+                "Giffen good",
+                "Demand good"
+            ],
+            "answer": "Giffen good"
+        },
+        {
+            "id": "22",
+            "question": "Which of these is not a property of indifference curves?",
+            "options": [
+                "Higher indifference curves are preferred to lower ones",
+                "Indifference curves are downward-sloping",
+                "Indifference curves cross at right angles",
+                "Indifference curves are bowed inwards"
+            ],
+            "answer": "Indifference curves cross at right angles"
+        },
+        {
+            "id": "23",
+            "question": "“an action taken by an informed party to reveal private information to an uninformed party” is known as",
+            "options": [
+                "signalling",
+                "screening",
+                "informing",
+                "heuristics"
+            ],
+            "answer": "signalling"
+        },
+        {
+            "id": "24",
+            "question": "“simple strategies or mental processes used to quickly form judgments, make decisions, and find solutions to complex problems” is known as",
+            "options": [
+                "signalling",
+                "screening",
+                "informing",
+                "heuristics"
+            ],
+            "answer": "heuristics"
+        },
+        {
+            "id": "25",
+            "question": "Tropical moist forests do not include which of the following?",
+            "options": [
+                "Broadleaved forests",
+                "Wet evergreen forests",
+                "Semi-evergreen forests",
+                "Moist deciduous forests"
+            ],
+            "answer": "Broadleaved forests"
+        },
+        {
+            "id": "26",
+            "question": "Which of these is not a use value?",
+            "options": [
+                "Direct value",
+                "Indirect value",
+                "Option value",
+                "Existence value"
+            ],
+            "answer": "Existence value"
+        },
+        {
+            "id": "27",
+            "question": "Soil formation is an example of",
+            "options": [
+                "provisioning service",
+                "regulating service",
+                "supporting service",
+                "cultural service"
+            ],
+            "answer": "supporting service"
+        },
+        {
+            "id": "28",
+            "question": "Zoo is an example of",
+            "options": [
+                "in-situ conservation",
+                "ex-situ conservation",
+                "in-situ preservation",
+                "ex-situ preservation"
+            ],
+            "answer": "ex-situ conservation"
+        },
+        {
+            "id": "29",
+            "question": "The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of",
+            "options": [
+                "least concern species",
+                "keystone species",
+                "flagship species",
+                "extinct species"
+            ],
+            "answer": "keystone species"
+        },
+        {
+            "id": "30",
+            "question": "Nutrient cycling is an example of",
+            "options": [
+                "provisioning service",
+                "regulating service",
+                "supporting service",
+                "cultural service"
+            ],
+            "answer": "supporting service"
+        },
+        {
+            "id": "31",
+            "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+            "options": [
+                "umbrella species",
+                "keystone species",
+                "flagship species",
+                "extinct species"
+            ],
+            "answer": "flagship species"
+        },
+        {
+            "id": "32",
+            "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+            "options": [
+                "very high",
+                "medium",
+                "very low",
+                "non-existent"
+            ],
+            "answer": "medium"
+        },
+        {
+            "id": "33",
+            "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+            "options": [
+                "umbrella species",
+                "keystone species",
+                "flagship species",
+                "all of the above"
+            ],
+            "answer": "all of the above"
+        },
+        {
+            "id": "34",
+            "question": "Biological control of pest populations is an example of",
+            "options": [
+                "provisioning service",
+                "regulating service",
+                "supporting service",
+                "cultural service"
+            ],
+            "answer": "regulating service"
+        },
+
+            {
+                "id": "35",
+                "question": "Tropical forests are generally found in which of the following regions?",
+                "options": [
+                    "Near the poles",
+                    "Along the equator",
+                    "In temperate regions",
+                    "In desert areas"
+                ],
+                "answer": "Along the equator"
+            },
+            {
+                "id": "36",
+                "question": "Which of these is a non-renewable resource?",
+                "options": [
+                    "Solar energy",
+                    "Wind energy",
+                    "Coal",
+                    "Geothermal energy"
+                ],
+                "answer": "Coal"
+            },
+            {
+                "id": "37",
+                "question": "The concept of 'Tragedy of the Commons' was introduced by",
+                "options": [
+                    "Garrett Hardin",
+                    "John Locke",
+                    "Karl Marx",
+                    "Mahatma Gandhi"
+                ],
+                "answer": "Garrett Hardin"
+            },
+            {
+                "id": "38",
+                "question": "Which of the following is a feature of a sustainable ecosystem?",
+                "options": [
+                    "Unrestricted consumption of resources",
+                    "Rapid exploitation of natural resources",
+                    "Balance between resource use and regeneration",
+                    "Loss of biodiversity"
+                ],
+                "answer": "Balance between resource use and regeneration"
+            },
+            {
+                "id": "39",
+                "question": "Which of the following is not a characteristic of a developed country?",
+                "options": [
+                    "High standard of living",
+                    "High per capita income",
+                    "Low industrialization",
+                    "Advanced technological infrastructure"
+                ],
+                "answer": "Low industrialization"
+            },
+            {
+                "id": "40",
+                "question": "Which of the following terms refers to the variety of life forms in a particular habitat?",
+                "options": [
+                    "Biodiversity",
+                    "Ecosystem",
+                    "Habitat diversity",
+                    "Resource diversity"
+                ],
+                "answer": "Biodiversity"
+            },
+            {
+                "id": "41",
+                "question": "The term 'Greenhouse effect' refers to",
+                "options": [
+                    "A decrease in the temperature of the Earth",
+                    "An increase in the temperature of the Earth due to gases in the atmosphere",
+                    "A change in the Earth’s orbit",
+                    "A natural process that does not affect the Earth’s climate"
+                ],
+                "answer": "An increase in the temperature of the Earth due to gases in the atmosphere"
+            },
+            {
+                "id": "42",
+                "question": "Which of these is an example of a renewable resource?",
+                "options": [
+                    "Coal",
+                    "Crude oil",
+                    "Wind energy",
+                    "Natural gas"
+                ],
+                "answer": "Wind energy"
+            },
+            {
+                "id": "43",
+                "question": "Which of the following is a primary cause of deforestation?",
+                "options": [
+                    "Urbanization",
+                    "Industrialization",
+                    "Agricultural expansion",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "id": "44",
+                "question": "Which of these is not a principle of sustainable development?",
+                "options": [
+                    "Social equity",
+                    "Economic growth",
+                    "Environmental preservation",
+                    "Unrestricted resource exploitation"
+                ],
+                "answer": "Unrestricted resource exploitation"
+            },
+            {
+                "id": "45",
+                "question": "The primary goal of conservation biology is to",
+                "options": [
+                    "Preserve natural resources for economic benefits",
+                    "Protect biodiversity and ecosystems",
+                    "Increase industrial production",
+                    "Develop new agricultural techniques"
+                ],
+                "answer": "Protect biodiversity and ecosystems"
+            },
+            {
+                "id": "46",
+                "question": "Which of the following is a consequence of overfishing?",
+                "options": [
+                    "Increased biodiversity",
+                    "Sustainable fish populations",
+                    "Depletion of fish stocks",
+                    "Reduction in global fish consumption"
+                ],
+                "answer": "Depletion of fish stocks"
+            },
+            {
+                "id": "47",
+                "question": "Which of the following is not a greenhouse gas?",
+                "options": [
+                    "Carbon dioxide",
+                    "Methane",
+                    "Nitrogen",
+                    "Ozone"
+                ],
+                "answer": "Nitrogen"
+            },
+            {
+                "id": "48",
+                "question": "Which ecosystem is characterized by high rainfall, year-round warmth, and an abundance of species?",
+                "options": [
+                    "Tropical rainforest",
+                    "Desert",
+                    "Temperate forest",
+                    "Grassland"
+                ],
+                "answer": "Tropical rainforest"
+            },
+                {
+                    "id": "49",
+                    "question": "What is the primary cause of global warming?",
+                    "options": [
+                        "Deforestation",
+                        "Industrial emissions",
+                        "Overpopulation",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "id": "50",
+                    "question": "Which of the following is an example of an invasive species?",
+                    "options": [
+                        "Kangaroo",
+                        "Bamboo",
+                        "Cane toad",
+                        "Penguin"
+                    ],
+                    "answer": "Cane toad"
+                },
+                {
+                    "id": "51",
+                    "question": "What is the main purpose of the Kyoto Protocol?",
+                    "options": [
+                        "To promote free trade",
+                        "To reduce greenhouse gas emissions",
+                        "To conserve biodiversity",
+                        "To encourage deforestation"
+                    ],
+                    "answer": "To reduce greenhouse gas emissions"
+                },
+                {
+                    "id": "52",
+                    "question": "Which of these is a consequence of climate change?",
+                    "options": [
+                        "Increased crop yields",
+                        "Rising sea levels",
+                        "Stabilization of weather patterns",
+                        "Decreased natural disasters"
+                    ],
+                    "answer": "Rising sea levels"
+                },
+                {
+                    "id": "53",
+                    "question": "Which of the following is a factor that contributes to the loss of biodiversity?",
+                    "options": [
+                        "Pollution",
+                        "Climate change",
+                        "Overharvesting of resources",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "id": "54",
+                    "question": "Which of the following is not a characteristic of a desert ecosystem?",
+                    "options": [
+                        "Low precipitation",
+                        "High temperatures during the day",
+                        "Low biodiversity",
+                        "High levels of soil moisture"
+                    ],
+                    "answer": "High levels of soil moisture"
+                },
+                {
+                    "id": "55",
+                    "question": "What is the primary objective of wildlife conservation?",
+                    "options": [
+                        "To increase human population",
+                        "To protect endangered species",
+                        "To promote economic growth",
+                        "To develop new technologies"
+                    ],
+                    "answer": "To protect endangered species"
+                },
+                {
+                    "id": "56",
+                    "question": "Which of the following is an example of a renewable energy source?",
+                    "options": [
+                        "Natural gas",
+                        "Solar energy",
+                        "Coal",
+                        "Nuclear energy"
+                    ],
+                    "answer": "Solar energy"
+                },
+                {
+                    "id": "57",
+                    "question": "The largest number of plant and animal species are found in which of the following ecosystems?",
+                    "options": [
+                        "Tropical rainforests",
+                        "Deserts",
+                        "Temperate forests",
+                        "Tundra"
+                    ],
+                    "answer": "Tropical rainforests"
+                },
+                {
+                    "id": "58",
+                    "question": "Which of these gases is primarily responsible for the depletion of the ozone layer?",
+                    "options": [
+                        "Carbon dioxide",
+                        "Methane",
+                        "Chlorofluorocarbons (CFCs)",
+                        "Oxygen"
+                    ],
+                    "answer": "Chlorofluorocarbons (CFCs)"
+                },
+                {
+                    "id": "59",
+                    "question": "Which of the following is a characteristic of a sustainable community?",
+                    "options": [
+                        "Increased consumption of non-renewable resources",
+                        "Reduced pollution and waste",
+                        "Overuse of local resources",
+                        "Decreased social well-being"
+                    ],
+                    "answer": "Reduced pollution and waste"
+                },
+                {
+                    "id": "60",
+                    "question": "Which of the following is not an example of an ecosystem service?",
+                    "options": [
+                        "Pollination of crops",
+                        "Regulation of climate",
+                        "Providing food through agriculture",
+                        "Providing financial services"
+                    ],
+                    "answer": "Providing financial services"
+                },
+                {
+                    "id": "61",
+                    "question": "Which of these ecosystems is primarily responsible for regulating the water cycle?",
+                    "options": [
+                        "Forests",
+                        "Grasslands",
+                        "Deserts",
+                        "Coral reefs"
+                    ],
+                    "answer": "Forests"
+                },
+                {
+                    "id": "62",
+                    "question": "What is the primary purpose of the Ramsar Convention?",
+                    "options": [
+                        "To promote the sustainable use of wetlands",
+                        "To conserve marine biodiversity",
+                        "To regulate forest exploitation",
+                        "To protect endangered species"
+                    ],
+                    "answer": "To promote the sustainable use of wetlands"
+                },
+                {
+                    "id": "63",
+                    "question": "Which of the following is a consequence of overgrazing?",
+                    "options": [
+                        "Improved soil quality",
+                        "Decreased plant biodiversity",
+                        "Increased water retention in soil",
+                        "Increased forest coverage"
+                    ],
+                    "answer": "Decreased plant biodiversity"
+                },
+                    {
+                        "id": "64",
+                        "question": "Which of the following is not a cause of habitat destruction?",
+                        "options": [
+                            "Logging",
+                            "Urban expansion",
+                            "Pollution",
+                            "Sustainable agriculture"
+                        ],
+                        "answer": "Sustainable agriculture"
+                    },
+                    {
+                        "id": "65",
+                        "question": "What is the purpose of the Convention on Biological Diversity (CBD)?",
+                        "options": [
+                            "To protect the ozone layer",
+                            "To conserve biodiversity and ensure sustainable use of its components",
+                            "To promote industrial growth",
+                            "To regulate global emissions"
+                        ],
+                        "answer": "To conserve biodiversity and ensure sustainable use of its components"
+                    },
+                    {
+                        "id": "66",
+                        "question": "Which of these is a characteristic of an invasive species?",
+                        "options": [
+                            "Native to the region",
+                            "Quickly adapts and spreads to new environments",
+                            "Rarely affects local ecosystems",
+                            "Has a limited geographical range"
+                        ],
+                        "answer": "Quickly adapts and spreads to new environments"
+                    },
+                    {
+                        "id": "67",
+                        "question": "What is the term for the gradual process of species extinction due to human activity?",
+                        "options": [
+                            "Natural extinction",
+                            "Accelerated extinction",
+                            "Artificial selection",
+                            "Endangered extinction"
+                        ],
+                        "answer": "Accelerated extinction"
+                    },
+                    {
+                        "id": "68",
+                        "question": "Which of these is a major threat to marine ecosystems?",
+                        "options": [
+                            "Overfishing",
+                            "Oil spills",
+                            "Coral reef destruction",
+                            "All of the above"
+                        ],
+                        "answer": "All of the above"
+                    },
+                    {
+                        "id": "69",
+                        "question": "Which of the following is a benefit of biodiversity?",
+                        "options": [
+                            "Reduced resilience of ecosystems",
+                            "Decreased ecosystem services",
+                            "Enhanced ecosystem productivity and stability",
+                            "Increased vulnerability to diseases"
+                        ],
+                        "answer": "Enhanced ecosystem productivity and stability"
+                    },
+                    {
+                        "id": "70",
+                        "question": "What is the main objective of the Earth Summit (1992)?",
+                        "options": [
+                            "To tackle issues of poverty",
+                            "To create a framework for sustainable development",
+                            "To address human rights issues",
+                            "To regulate global trade"
+                        ],
+                        "answer": "To create a framework for sustainable development"
+                    },
+                    {
+                        "id": "71",
+                        "question": "What is the main purpose of reforestation?",
+                        "options": [
+                            "To prevent soil erosion",
+                            "To increase biodiversity",
+                            "To reduce the effects of climate change",
+                            "All of the above"
+                        ],
+                        "answer": "All of the above"
+                    },
+                    {
+                        "id": "72",
+                        "question": "Which of the following is an example of a non-renewable resource?",
+                        "options": [
+                            "Wind energy",
+                            "Solar energy",
+                            "Coal",
+                            "Geothermal energy"
+                        ],
+                        "answer": "Coal"
+                    },
+                    {
+                        "id": "73",
+                        "question": "Which of these strategies helps conserve water in agriculture?",
+                        "options": [
+                            "Flood irrigation",
+                            "Rainwater harvesting",
+                            "Over-irrigation",
+                            "Monoculture farming"
+                        ],
+                        "answer": "Rainwater harvesting"
+                    },
+                    {
+                        "id": "74",
+                        "question": "What does the term 'sustainable development' refer to?",
+                        "options": [
+                            "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
+                            "Development that focuses solely on economic growth",
+                            "Development that relies heavily on fossil fuels",
+                            "Development that prioritizes industrial expansion"
+                        ],
+                        "answer": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs"
+                    },
+                    {
+                        "id": "75",
+                        "question": "Which of the following is an example of an ecosystem service?",
+                        "options": [
+                            "Provision of food",
+                            "Provision of clean water",
+                            "Carbon sequestration",
+                            "All of the above"
+                        ],
+                        "answer": "All of the above"
+                    },
+                    {
+                        "id": "76",
+                        "question": "What is the main function of wetlands in an ecosystem?",
+                        "options": [
+                            "Store large quantities of carbon",
+                            "Prevent flooding by absorbing water",
+                            "Provide habitat for species",
+                            "All of the above"
+                        ],
+                        "answer": "All of the above"
+                    },
+                    {
+                        "id": "77",
+                        "question": "Which of the following is an effect of deforestation?",
+                        "options": [
+                            "Increased biodiversity",
+                            "Soil erosion",
+                            "Better air quality",
+                            "Increased oxygen levels"
+                        ],
+                        "answer": "Soil erosion"
+                    },
+                    {
+                        "id": "78",
+                        "question": "Which international agreement aims to combat climate change by reducing greenhouse gas emissions?",
+                        "options": [
+                            "Paris Agreement",
+                            "Ramsar Convention",
+                            "Convention",
+                            "Coal"
+                        ],
+                        "answer": "Geothermal energy"
+                    },
+                        {
+                            "id": "80",
+                            "question": "Which of the following is an example of a carbon sink?",
+                            "options": [
+                                "Forests",
+                                "Factories",
+                                "Vehicles",
+                                "Mining areas"
+                            ],
+                            "answer": "Forests"
+                        },
+                        {
+                            "id": "81",
+                            "question": "What is the primary cause of ocean acidification?",
+                            "options": [
+                                "Excessive nitrogen in water bodies",
+                                "Carbon dioxide absorption by oceans",
+                                "Overfishing",
+                                "Oil spills"
+                            ],
+                            "answer": "Carbon dioxide absorption by oceans"
+                        },
+                        {
+                            "id": "82",
+                            "question": "Which of the following is not a greenhouse gas?",
+                            "options": [
+                                "Carbon dioxide",
+                                "Methane",
+                                "Oxygen",
+                                "Nitrous oxide"
+                            ],
+                            "answer": "Oxygen"
+                        },
+                        {
+                            "id": "83",
+                            "question": "Which of the following ecosystems is highly susceptible to climate change?",
+                            "options": [
+                                "Tundra",
+                                "Temperate forests",
+                                "Savannas",
+                                "Deserts"
+                            ],
+                            "answer": "Tundra"
+                        },
+                        {
+                            "id": "84",
+                            "question": "What is the main benefit of crop rotation in sustainable agriculture?",
+                            "options": [
+                                "Increases soil fertility",
+                                "Promotes monoculture",
+                                "Reduces biodiversity",
+                                "Increases water usage"
+                            ],
+                            "answer": "Increases soil fertility"
+                        },
+                        {
+                            "id": "85",
+                            "question": "What is the term for the gradual increase in the Earth's average temperature?",
+                            "options": [
+                                "Global warming",
+                                "Climate change",
+                                "Ozone depletion",
+                                "Acidification"
+                            ],
+                            "answer": "Global warming"
+                        },
+                        {
+                            "id": "86",
+                            "question": "Which of the following is an example of an ecosystem with high biodiversity?",
+                            "options": [
+                                "Tropical rainforests",
+                                "Arctic tundra",
+                                "Deserts",
+                                "Mountain ranges"
+                            ],
+                            "answer": "Tropical rainforests"
+                        },
+                        {
+                            "id": "87",
+                            "question": "Which of the following human activities is the leading cause of biodiversity loss?",
+                            "options": [
+                                "Deforestation",
+                                "Pollution",
+                                "Overfishing",
+                                "Urbanization"
+                            ],
+                            "answer": "Deforestation"
+                        },
+                        {
+                            "id": "88",
+                            "question": "Which of the following is an important feature of sustainable fisheries management?",
+                            "options": [
+                                "Overfishing",
+                                "Fishing beyond sustainable limits",
+                                "Catch limits and protected areas",
+                                "Monoculture fishing"
+                            ],
+                            "answer": "Catch limits and protected areas"
+                        },
+                        {
+                            "id": "89",
+                            "question": "What is the main focus of the Ramsar Convention?",
+                            "options": [
+                                "Conservation of wetlands",
+                                "Protection of marine life",
+                                "Regulation of fishing practices",
+                                "Prevention of desertification"
+                            ],
+                            "answer": "Conservation of wetlands"
+                        },
+                        {
+                            "id": "90",
+                            "question": "Which of the following countries is the largest contributor to global deforestation?",
+                            "options": [
+                                "Brazil",
+                                "Russia",
+                                "India",
+                                "China"
+                            ],
+                            "answer": "Brazil"
+                        },
+                        {
+                            "id": "91",
+                            "question": "Which of the following is the primary objective of the Kyoto Protocol?",
+                            "options": [
+                                "To establish legally binding emission reduction targets for developed countries",
+                                "To promote renewable energy use worldwide",
+                                "To reduce plastic pollution",
+                                "To establish new marine protected areas"
+                            ],
+                            "answer": "To establish legally binding emission reduction targets for developed countries"
+                        },
+                        {
+                            "id": "92",
+                            "question": "Which of the following species is classified as endangered due to habitat loss?",
+                            "options": [
+                                "Asian elephant",
+                                "House sparrow",
+                                "European bison",
+                                "Indian rhinoceros"
+                            ],
+                            "answer": "Asian elephant"
+                        },
+                        {
+                            "id": "93",
+                            "question": "What is the major source of indoor air pollution in developing countries?",
+                            "options": [
+                                "Vehicle emissions",
+                                "Cigarette smoke",
+                                "Burning of wood and other biomass fuels",
+                                "Industrial emissions"
+                            ],
+                            "answer": "Burning of wood and other biomass fuels"
+                        },
+                        {
+                            "id": "94",
+                            "question": "Which of the following is an example of a biome?",
+                            "options": [
+                                "Desert",
+                                "Mountains",
+                                "Oceans",
+                                "All of the above"
+                            ],
+                            "answer": "All of the above"
+                        },
+                        {
+                            "id": "95",
+                            "question": "Which of the following is a strategy to conserve biodiversity?",
+                            "options": [
+                                "In-situ conservation",
+                                "Ex-situ conservation",
+                                "Both in-situ and ex-situ conservation",
+                                "None of the above"
+                            ],
+                            "answer": "Both in-situ and ex-situ conservation"
+                        },
+                        {
+                            "id": "96",
+                            "question": "Which of the following is the primary goal of ecosystem restoration?",
+                            "options": [
+                                "To increase species diversity",
+                                "To reduce human population growth",
+                                "To restore ecosystems to their natural state",
+                                "To promote industrialization"
+                            ],
+                            "answer": "To restore ecosystems to their natural state"
+                        },
+                        {
+                            "id": "97",
+                            "question": "What is the main factor contributing to coral reef degradation?",
+                            "options": [
+                                "Ocean warming",
+                                "Pollution",
+                                "Overfishing",
+                                "All of the above"
+                            ],
+                            "answer": "All of the above"
+                        },
+                        {
+                            "id": "98",
+                            "question": "Which of these practices can help mitigate the effects of climate change?",
+                            "options": [
+                                "Afforestation and reforestation",
+                                "Use of fossil fuels",
+                                "Increased agricultural expansion",
+                                "Burning of coal"
+                            ],
+                            "answer": "Afforestation and reforestation"
+                        },
+                        {
+                            "id": "99",
+                            "question": "Which of the following is an example of a renewable energy source?",
+                            "options": [
+                                "Natural gas",
+                                "Wind energy",
+                                "Coal",
+                                "Oil"
+                            ],
+                            "answer": "Wind energy"
+                        },
+                        {
+                            "id": "100",
+                            "question": "Which international agreement aims to limit global temperature rise to well below 2°C above pre-industrial levels?",
+                            "options": [
+                                "Montreal Protocol",
+                                "Paris Agreement",
+                                "Ramsar Convention",
+                                "Kyoto Protocol"
+                            ],
+                            "answer": "Paris Agreement"
+                        },
+                            {
+                                "id": "101",
+                                "question": "What is the primary function of ozone in the Earth's atmosphere?",
+                                "options": [
+                                    "To absorb ultraviolet radiation",
+                                    "To increase greenhouse gas effect",
+                                    "To promote cloud formation",
+                                    "To trap heat in the atmosphere"
+                                ],
+                                "answer": "To absorb ultraviolet radiation"
+                            },
+                            {
+                                "id": "102",
+                                "question": "Which of the following is the largest carbon emitter globally?",
+                                "options": [
+                                    "USA",
+                                    "China",
+                                    "India",
+                                    "Russia"
+                                ],
+                                "answer": "China"
+                            },
+                            {
+                                "id": "103",
+                                "question": "Which of the following best describes the term 'biodiversity'?",
+                                "options": [
+                                    "The variety of species, genes, ecosystems, and ecological processes",
+                                    "The number of animals in a given region",
+                                    "The types of plants and animals living in an area",
+                                    "The distribution of species worldwide"
+                                ],
+                                "answer": "The variety of species, genes, ecosystems, and ecological processes"
+                            },
+                            {
+                                "id": "104",
+                                "question": "What is the main cause of the greenhouse effect?",
+                                "options": [
+                                    "Ozone depletion",
+                                    "Excessive CO2 in the atmosphere",
+                                    "Deforestation",
+                                    "Methane emissions"
+                                ],
+                                "answer": "Excessive CO2 in the atmosphere"
+                            },
+                            {
+                                "id": "105",
+                                "question": "Which of the following is an example of a non-renewable resource?",
+                                "options": [
+                                    "Solar energy",
+                                    "Natural gas",
+                                    "Wind energy",
+                                    "Geothermal energy"
+                                ],
+                                "answer": "Natural gas"
+                            },
+                            {
+                                "id": "106",
+                                "question": "What is the purpose of the United Nations Convention on Biological Diversity (CBD)?",
+                                "options": [
+                                    "To promote the sustainable use of biodiversity",
+                                    "To limit the emission of greenhouse gases",
+                                    "To regulate international fishing agreements",
+                                    "To protect endangered species"
+                                ],
+                                "answer": "To promote the sustainable use of biodiversity"
+                            },
+                            {
+                                "id": "107",
+                                "question": "Which of these methods is used for wildlife conservation in protected areas?",
+                                "options": [
+                                    "Wildlife corridors",
+                                    "Eco-tourism",
+                                    "Community-based conservation",
+                                    "All of the above"
+                                ],
+                                "answer": "All of the above"
+                            },
+                            {
+                                "id": "108",
+                                "question": "What is the major consequence of soil erosion?",
+                                "options": [
+                                    "Improved soil fertility",
+                                    "Loss of topsoil and reduced agricultural productivity",
+                                    "Increased water retention",
+                                    "Increase in plant biodiversity"
+                                ],
+                                "answer": "Loss of topsoil and reduced agricultural productivity"
+                            },
+                            {
+                                "id": "109",
+                                "question": "Which of the following is an example of a sustainable practice in agriculture?",
+                                "options": [
+                                    "Monoculture farming",
+                                    "Use of chemical pesticides",
+                                    "Crop diversification and organic farming",
+                                    "Excessive water use"
+                                ],
+                                "answer": "Crop diversification and organic farming"
+                            },
+                            {
+                                "id": "110",
+                                "question": "Which of these is considered a positive impact of ecotourism?",
+                                "options": [
+                                    "Increased deforestation",
+                                    "Economic benefits and environmental awareness",
+                                    "Over-exploitation of natural resources",
+                                    "Displacement of local communities"
+                                ],
+                                "answer": "Economic benefits and environmental awareness"
+                            },
+                            {
+                                "id": "111",
+                                "question": "Which of the following is a key characteristic of an invasive species?",
+                                "options": [
+                                    "It is native to the area",
+                                    "It harms the local ecosystem and biodiversity",
+                                    "It contributes to ecosystem stability",
+                                    "It has no predators"
+                                ],
+                                "answer": "It harms the local ecosystem and biodiversity"
+                            },
+                            {
+                                "id": "112",
+                                "question": "What is the term used to describe the process of converting atmospheric nitrogen into a usable form for plants?",
+                                "options": [
+                                    "Nitrification",
+                                    "Nitrogen fixation",
+                                    "Ammonification",
+                                    "Denitrification"
+                                ],
+                                "answer": "Nitrogen fixation"
+                            },
+                            {
+                                "id": "113",
+                                "question": "Which of the following is an example of a renewable energy source?",
+                                "options": [
+                                    "Coal",
+                                    "Natural gas",
+                                    "Hydroelectric power",
+                                    "Petroleum"
+                                ],
+                                "answer": "Hydroelectric power"
+                            },
+                            {
+                                "id": "114",
+                                "question": "What does the term 'ecosystem services' refer to?",
+                                "options": [
+                                    "The services provided by humans to protect ecosystems",
+                                    "The benefits that humans receive from ecosystems",
+                                    "The management of natural resources by the government",
+                                    "The services provided by wildlife reserves"
+                                ],
+                                "answer": "The benefits that humans receive from ecosystems"
+                            },
+                            {
+                                "id": "115",
+                                "question": "Which of the following human activities is most directly responsible for habitat loss?",
+                                "options": [
+                                    "Pollution",
+                                    "Climate change",
+                                    "Deforestation",
+                                    "Overhunting"
+                                ],
+                                "answer": "Deforestation"
+                            },
+                            {
+                                "id": "116",
+                                "question": "Which of the following is the largest reservoir of carbon on Earth?",
+                                "options": [
+                                    "Oceans",
+                                    "Atmosphere",
+                                    "Soil",
+                                    "Forests"
+                                ],
+                                "answer": "Oceans"
+                            },
+                            {
+                                "id": "117",
+                                "question": "Which of the following is an example of a non-point source of pollution?",
+                                "options": [
+                                    "Factory smokestacks",
+                                    "Oil spills",
+                                    "Runoff from agricultural fields",
+                                    "Landfills"
+                                ],
+                                "answer": "Runoff from agricultural fields"
+                            },
+                            {
+                                "id": "118",
+                                "question": "Which of the following is a method used to reduce carbon emissions from vehicles?",
+                                "options": [
+                                    "Increased use of fossil fuels",
+                                    "Use of electric vehicles",
+                                    "Use of coal-powered energy",
+                                    "Increased fuel consumption"
+                                ],
+                                "answer": "Use of electric vehicles"
+                            },
+                            {
+                                "id": "119",
+                                "question": "Which of these is an example of an ecosystem service?",
+                                "options": [
+                                    "Pollination of crops",
+                                    "Depletion of ozone layer",
+                                    "Plastic pollution",
+                                    "Chemical runoff from agriculture"
+                                ],
+                                "answer": "Pollination of crops"
+                            },
+                            {
+                                "id": "120",
+                                "question": "What is the main cause of deforestation in tropical rainforests?",
+                                "options": [
+                                    "Overpopulation",
+                                    "Logging and agriculture",
+                                    "Natural disasters",
+                                    "Industrialization"
+                                ],
+                                "answer": "Logging and agriculture"
+                            },
+                                {
+                                    "id": "121",
+                                    "question": "What is the primary objective of the Kyoto Protocol?",
+                                    "options": [
+                                        "To promote the use of renewable energy sources",
+                                        "To reduce global greenhouse gas emissions",
+                                        "To increase forest cover globally",
+                                        "To reduce ocean pollution"
+                                    ],
+                                    "answer": "To reduce global greenhouse gas emissions"
+                                },
+                                {
+                                    "id": "122",
+                                    "question": "What is a common result of habitat fragmentation?",
+                                    "options": [
+                                        "Increased biodiversity",
+                                        "Decrease in species interactions",
+                                        "Improvement in ecosystem services",
+                                        "Increase in natural resources"
+                                    ],
+                                    "answer": "Decrease in species interactions"
+                                },
+                                {
+                                    "id": "123",
+                                    "question": "What is the process by which plants absorb carbon dioxide from the atmosphere?",
+                                    "options": [
+                                        "Photosynthesis",
+                                        "Respiration",
+                                        "Transpiration",
+                                        "Fermentation"
+                                    ],
+                                    "answer": "Photosynthesis"
+                                },
+                                {
+                                    "id": "124",
+                                    "question": "Which of the following is considered a major driver of biodiversity loss?",
+                                    "options": [
+                                        "Overfishing",
+                                        "Invasive species",
+                                        "Pollution",
+                                        "All of the above"
+                                    ],
+                                    "answer": "All of the above"
+                                },
+                                {
+                                    "id": "125",
+                                    "question": "What is the term used to describe the variety of life found in an area?",
+                                    "options": [
+                                        "Biodiversity",
+                                        "Ecological succession",
+                                        "Species richness",
+                                        "Trophic structure"
+                                    ],
+                                    "answer": "Biodiversity"
+                                },
+                                {
+                                    "id": "126",
+                                    "question": "Which of the following is an example of an ecosystem that provides cultural services?",
+                                    "options": [
+                                        "A forest that absorbs CO2",
+                                        "A wetland that filters water",
+                                        "A beach that attracts tourists",
+                                        "A coral reef that supports fish populations"
+                                    ],
+                                    "answer": "A beach that attracts tourists"
+                                },
+                                {
+                                    "id": "127",
+                                    "question": "What is the purpose of a biodiversity hotspot?",
+                                    "options": [
+                                        "To protect large, non-disturbed wilderness areas",
+                                        "To increase the number of species in an ecosystem",
+                                        "To conserve areas with high levels of endemic species",
+                                        "To promote urban development"
+                                    ],
+                                    "answer": "To conserve areas with high levels of endemic species"
+                                },
+                                {
+                                    "id": "128",
+                                    "question": "Which of the following is a direct consequence of global warming?",
+                                    "options": [
+                                        "Decrease in ocean temperatures",
+                                        "Loss of polar ice caps",
+                                        "Increase in biodiversity",
+                                        "Decrease in greenhouse gases"
+                                    ],
+                                    "answer": "Loss of polar ice caps"
+                                },
+                                {
+                                    "id": "129",
+                                    "question": "What is the term used for the long-term storage of carbon in the Earth's ecosystems?",
+                                    "options": [
+                                        "Carbon sequestration",
+                                        "Carbon emission",
+                                        "Carbon footprint",
+                                        "Carbon cycle"
+                                    ],
+                                    "answer": "Carbon sequestration"
+                                },
+                                {
+                                    "id": "130",
+                                    "question": "Which of the following practices can help reduce soil erosion?",
+                                    "options": [
+                                        "Monoculture farming",
+                                        "Planting cover crops",
+                                        "Clearing forests",
+                                        "Increasing irrigation"
+                                    ],
+                                    "answer": "Planting cover crops"
+                                }
+                            ]
+                            
+                        
+                    
+                
+            
+        
+    
+
